@@ -1,9 +1,9 @@
-# 🌸 Iris Flower Classification
+# Iris Flower Classification
 
-## 📌 Overview
+## Overview
 This project classifies Iris flowers into three species using Machine Learning in Python. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -11,10 +11,10 @@ This project classifies Iris flowers into three species using Machine Learning i
 - Seaborn
 - Scikit-learn
 
-## 📂 Dataset
+##  Dataset
 Iris Dataset
 
-## 🚀 Features
+## Features
 - Data Cleaning
 - EDA
 - Feature Selection
@@ -22,5 +22,5 @@ Iris Dataset
 - Flower Classification
 - Model Evaluation
 
-## 👩‍💻 Author
+##  Author
 Krutika Ladi
